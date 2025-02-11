@@ -6,7 +6,11 @@ import Writings from "../components/home/writings.astro";
 import Layout from "../layouts/main.astro";
 ---
 
-<Layout title="Portfolio Web | Adrián Hdez" description="Soy César Adrián Hernández Hernández, tengo 2 años de experiencia como desarrollador y estoy siempre abierto a discutir nuevas oportunidades laborales. Si estás buscando un desarrollador apasionado y comprometido, no dudes en contactarme.">
+<Layout
+  title="Portfolio Web | Adrián Hdez"
+  description="Soy César Adrián Hernández Hernández, tengo experiencia como desarrollador y estoy siempre abierto a discutir nuevas oportunidades laborales. Si estás buscando un desarrollador apasionado y comprometido, no dudes en contactarme."
+  canonical="https://www.adrianhdez.me/"
+>
   <div
     class="relative z-20 w-full max-w-4xl mx-auto mt-16 px-7 md:mt-24 lg:mt-32 xl:px-0"
   >
@@ -15,7 +19,7 @@ import Layout from "../layouts/main.astro";
         <h1
           class="mb-5 text-4xl font-bold leading-tight md:text-4xl lg:text-6xl dark:text-white"
         >
-          Hola, <br> Soy Adrián.
+          Hola, <br /> Soy Adrián.
         </h1>
         <p class="mb-6 text-base text-neutral-600 dark:text-neutral-400">
           Soy programador front-end.<br class="hidden lg:block" />Me enfoco en
@@ -33,7 +37,10 @@ import Layout from "../layouts/main.astro";
           <li>Diseño Web</li>
           <li>y más...</li>
         </ul>
-        <Button text="Mira mi GitHub 🔗" link="https://github.com/adrianhdez2" />
+        <Button
+          text="Mira mi GitHub 🔗"
+          link="https://github.com/adrianhdez2"
+        />
       </div>
       <div
         class="relative justify-end hidden w-full mt-10 md:flex md:pl-10 md:w-1/2 md:mt-0 md:translate-y-4 xl:translate-y-0"
