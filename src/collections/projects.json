@@ -34,5 +34,41 @@
 		"description": "Juego de atrapar objetos hecho en JavaScript con el objetivo de concientizar sobre el cuidado de la Laguna de las Ilusiones.",
 		"image": "/assets/images/projects/operacion-laguna.webp",
 		"url": "https://laguna-ilusiones.ujat.mx/juego-cocodrilo/index.html"
+	},
+	{
+		"name": "Memorama (Juego) - UJAT",
+		"description": "Juego clásico de memorama, empleando información relacionada a la Laguna de las Ilusiones, permitiendo así divulgación y concientización sobre su cuidado.",
+		"image": "/assets/images/projects/memorama-laguna.webp",
+		"url": "https://laguna-ilusiones.ujat.mx/memorama-juego/index.html"
+	},
+	{
+		"name": "Carrito de compras",
+		"description": "Carrito de compras funcional, realizado en React JS utilizando el hook useContext, así como de local storage, y Fake Store API (API de tienda ficticia).",
+		"image": "/assets/images/projects/shopping.webp",
+		"url": "https://shopping-cart-steel-mu.vercel.app/"
+	},
+	{
+		"name": "E-commerce Veterinaria",
+		"description": "Diseño UI para un ecommerce de una veterinaria, el diseño se realizó con Bootstrap y para su funcionamiento PHP y MySQL.",
+		"image": "/assets/images/projects/veterinaria.webp",
+		"url": "https://github.com/adrianhdez2/veterinaria"
+	},
+	{
+		"name": "Pokémon Game",
+		"description": "Juego de palabras relacionado a pokémon (ordenar la palabra relacionada a la imagen del pokémon), realizado con JavaScript utilizando local storage, fetch y la API gratis de pokémon (PokéAPI)",
+		"image": "/assets/images/projects/pokemon.webp",
+		"url": "https://adrianhdez2.github.io/pokemonGame/"
+	},
+	{
+		"name": "Hangman Game",
+		"description": "Juego clásico de adivinar palabras, con cierto limite de intentos, realizado en JavaScript (En PC puede utilizarse el teclado físico).",
+		"image": "/assets/images/projects/ahorcado.webp",
+		"url": "https://adrianhdez2.github.io/hangman-game/"
+	},
+	{
+		"name": "Juego de memoria",
+		"description": "Juego clásico de memoria, elaborado con JavaScript, con animaciones en CSS, ademas incluyendo sonidos.",
+		"image": "/assets/images/projects/memory.webp",
+		"url": "https://adrianhdez2.github.io/memorama/"
 	}
 ]
