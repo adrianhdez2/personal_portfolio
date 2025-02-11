@@ -1,0 +1,41 @@
+[
+	{
+		"dates": "Diciembre 2024",
+		"role": "Desarrollador Web",
+		"company": "Universidad Juárez Autonóma de Tabasco",
+		"description": "Colaboro como desarrollador Web y de aplicaciones en el laboratorio de desarrollo de Apps de la División Académica de Ciencias y Tecnologías de la Información.",
+		"logo": "/assets/images/experiences/ujat.png"
+	},
+	{
+		"dates": "Diciembre 2023",
+		"role": "Colaborador en la Casa Universitaria del Cacao y Chocolate",
+		"company": "Universidad Juárez Autonóma de Tabasco",
+		"description": "Colaboré como parte del proyecto de desarrollo tecnológico, enfocándome en la creación y desarrollo de aplicaciones web y aplicaciones interactivas. Utilicé la biblioteca Leaflet para integrar mapas interactivos y el motor gráfico Unity con el lenguaje C# para las aplicaciones interactivas.",
+		"logo": "/assets/images/experiences/cacha-cacao.png",
+		"urlPreview": "https://casa-cacao.ujat.mx/"
+	},
+	{
+		"dates": "Noviembre 2023",
+		"role": "Prestador de Prácticas Profesionales",
+		"company": "Universidad Juárez Autonóma de Tabasco",
+		"description": "Realicé mi práctica profesional durante 6 meses, finalizando en abril de 2024, en el laboratorio de desarrollo de Apps de la División Académica de Ciencias y Tecnologías de la Información. Durante este período, tuve la oportunidad de crear una aplicación de realidad aumentada (RA) utilizando Vuforia Engine en conjunto con Unity. Además, como desarrollador web, utilicé tecnologías como Node.js y Express.",
+		"logo": "/assets/images/experiences/ujat.png",
+		"urlPreview": "https://laguna-ilusiones.ujat.mx/app-ra2.html"
+	},
+	{
+		"dates": "Mayo 2023",
+		"role": "Colaborador en proyecto de la Laguna de las Ilusiones",
+		"company": "Universidad Juárez Autonóma de Tabasco",
+		"description": "Colaboré en el desarrollo frontend, donde tuve la oportunidad de participar en la creación de dos juegos web. Para el desarrollo de los juegos, utilicé JavaScript y CSS puro, añadiendo un nivel adicional de dinamismo y atractivo visual a los proyectos.",
+		"logo": "/assets/images/experiences/ujat.png",
+		"urlPreview": "https://laguna-ilusiones.ujat.mx/"
+	},
+	{
+		"dates": "Mayo 2023",
+		"role": "Prestador de Servicio social",
+		"company": "Universidad Juárez Autonóma de Tabasco",
+		"description": "Realicé mi servicio social durante 6 meses, finalizando en agosto de 2023, en el laboratorio de desarrollo de Apps de la División Académica de Ciencias y Tecnologías de la Información. Durante este período, reafirmé mis habilidades como desarrollador frontend utilizando frameworks como React JS y Astro, y aporté ideas y consejos a mis compañeros. Además, mis competencias en CSS y JavaScript crecieron significativamente, permitiéndome contribuir de manera más efectiva a los proyectos del laboratorio.",
+		"urlPreview": "https://laguna-ilusiones.ujat.mx/",
+		"logo": "/assets/images/experiences/ujat.png"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Choco Market - Ecommerce",
+		"description": "E-commerce para artesanías de tabasco. Sitio moderno e intuitivo realizado con React JS.",
+		"image": "/assets/images/projects/choco-market.webp",
+		"url": "https://choco-market.vercel.app/"
+	},
+	{
+		"name": "Página Web - Parque La pólvora",
+		"description": "Sitio Web animado y con realidad aumentada (RA), empleando la libreria GSAP para animaciones y Model Viewer para RA. Sitio creado en Astro y con estilos de Tailwnd CSS.",
+		"image": "/assets/images/projects/parque-polvora.webp",
+		"url": "https://web-polvora.vercel.app/"
+	},
+	{
+		"name": "Casa Universitaria Cacao y Chocolate",
+		"description": "Colaboración para el desarrollo de una sección en esta página, utilizando HTML, CSS y JavaScript.",
+		"image": "/assets/images/projects/cacha-cacao.webp",
+		"url": "https://casa-cacao.ujat.mx/"
+	},
+	{
+		"name": "Web PescArte - UJAT",
+		"description": "PescArte, una red itinerante para la conservación sustentable de organismos acuáticos de Tabasco. Página (Single Page Application) para la Universidad Juárez Autonóma de Tabasco. Realizada con Astro y React JS.",
+		"image": "/assets/images/projects/pescarte.webp",
+		"url": "https://pescarte.ujat.mx/"
+	},
+	{
+		"name": "Quiz App",
+		"description": "Pequeño quiz acerca de la banda Imagine Dragons, realizado en JavaScript, con animaciones en CSS.",
+		"image": "/assets/images/projects/app-quiz.webp",
+		"url": "https://quiz-app-orpin-phi.vercel.app/"
+	},
+	{
+		"name": "Operación laguna (Juego) - UJAT",
+		"description": "Juego de atrapar objetos hecho en JavaScript con el objetivo de concientizar sobre el cuidado de la Laguna de las Ilusiones.",
+		"image": "/assets/images/projects/operacion-laguna.webp",
+		"url": "https://laguna-ilusiones.ujat.mx/juego-cocodrilo/index.html"
+	}
+]
