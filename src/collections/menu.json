@@ -10,5 +10,9 @@
 	{
 		"name": "Acerca de mí",
 		"url": "/about"
+	},
+	{
+		"name": "Contacto",
+		"url": "mailto:cesarahh3@gmail.com"
 	}
 ]
