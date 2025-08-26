@@ -7,6 +7,7 @@ const { frontmatter } = Astro.props;
   title={frontmatter.title}
   description={frontmatter.description}
   canonical={`https://www.adrianhdez.me/post/${frontmatter.slug_url}`}
+  icon="../icon.ico"
 >
   <main
     class="relative z-30 max-w-4xl pb-1 mx-auto mt-10 bg-white dark:bg-neutral-950 md:rounded-t-md text-neutral-900"
@@ -30,7 +31,7 @@ const { frontmatter } = Astro.props;
     </div>
 
     <article
-      class="w-full max-w-2xl mx-auto mb-20 prose-sm prose px-7 lg:px-0 lg:prose-lg dark:prose-invert"
+      class="w-full max-w-2xl mx-auto mb-20 prose-sm prose px-7 lg:px-0 lg:prose-lg dark:prose-invert [&>p>img]:rounded-2xl"
     >
       <slot />
     </article>
