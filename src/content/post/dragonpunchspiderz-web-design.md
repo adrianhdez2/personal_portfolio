@@ -6,7 +6,7 @@ dateFormatted: Agosto 23, 2025
 slug_url: dragonpunchspiderz-web-design
 ---
 
-![Descripción de la imagen](/assets/images/posts/SEVEN741.webp)
+![Preview de diseño web para Jorge Enrique Jiménez Moreno](/assets/images/posts/SEVEN741.webp)
 
 Diseño web desarrollado para **Jorge Enrique Jiménez Moreno**, diseñador audiovisual, modelador 3D y especialista en motion graphics.  
 

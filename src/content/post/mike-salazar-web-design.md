@@ -6,7 +6,7 @@ dateFormatted: Agosto 10, 2025
 slug_url: mike-salazar-web-design
 ---
 
-![Descripción de la imagen](/assets/images/posts/MKS.webp)
+![Preview de diseño web para Mike Salazar, El Caballero de la Comedia ](/assets/images/posts/MKS.webp)
 
 Este diseño web lo desarrollé inspirado en **Mike Salazar**, *El Caballero de la Comedia*.  
 No es un proyecto oficial, sino una propuesta fan-made que busca representar su estilo y trayectoria en la comedia mexicana.  

@@ -6,7 +6,7 @@ dateFormatted: Enero 28, 2025
 slug_url: la-cotorrisa-web-design
 ---
 
-![Descripción de la imagen](/assets/images/posts/cotorrisa.webp)
+![Preview de diseño web para el podcast La Cotorrisa](/assets/images/posts/cotorrisa.webp)
 
 
 Este diseño web lo realicé como un **fan project** inspirado en *La Cotorrisa*, uno de los podcasts más populares en México.  
