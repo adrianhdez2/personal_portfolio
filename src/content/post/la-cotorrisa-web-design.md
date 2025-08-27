@@ -12,8 +12,9 @@ slug_url: la-cotorrisa-web-design
 Este diseño web lo realicé como un **fan project** inspirado en *La Cotorrisa*, uno de los podcasts más populares en México.  
 No se trata de un trabajo oficial, sino de un proyecto hecho por admiración y gusto por su estilo único para conectar con la audiencia.  
 
-🔹 **Objetivo:** crear una propuesta visual moderna, fresca y dinámica, que transmitiera la energía del podcast.  
-🔹 **Características destacadas:**
+**Objetivo:** Crear una propuesta visual moderna, fresca y dinámica, que transmitiera la energía del podcast.  
+
+**Características destacadas:**
 1. Paleta de colores vibrante inspirada en su branding.  
 2. Tipografía llamativa para mantener el tono desenfadado.  
 3. Maquetado responsive con HTML, CSS y vanilla JS (posible escalabilidad con React/Astro).  

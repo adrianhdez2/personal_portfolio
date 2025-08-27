@@ -10,8 +10,9 @@ slug_url: dragonpunchspiderz-web-design
 
 Diseño web desarrollado para **Jorge Enrique Jiménez Moreno**, diseñador audiovisual, modelador 3D y especialista en motion graphics.  
 
-🔹 **Objetivo:** crear un sitio que refleje su identidad profesional, su talento en proyectos audiovisuales y su capacidad creativa en experiencias digitales.  
-🔹 **Características destacadas:**
+**Objetivo:** Crear un sitio que refleje su identidad profesional, su talento en proyectos audiovisuales y su capacidad creativa en experiencias digitales.  
+
+**Características destacadas:**
 1. Estética moderna y minimalista.  
 2. Secciones dedicadas a modelado 3D, edición de video y animación.  
 3. Enfoque en usabilidad y experiencia de usuario.  

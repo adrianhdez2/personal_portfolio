@@ -11,8 +11,9 @@ slug_url: mike-salazar-web-design
 Este diseño web lo desarrollé inspirado en **Mike Salazar**, *El Caballero de la Comedia*.  
 No es un proyecto oficial, sino una propuesta fan-made que busca representar su estilo y trayectoria en la comedia mexicana.  
 
-🔹 **Objetivo:** mostrar una plataforma elegante pero divertida, donde sus seguidores puedan conocer giras, fechas y material exclusivo.  
-🔹 **Características destacadas:**
+**Objetivo:** Mostrar una plataforma elegante pero divertida, donde sus seguidores puedan conocer giras, fechas y material exclusivo.  
+
+**Características destacadas:**
 1. Estética visual combinando lo formal con un toque cómico.  
 2. Diseño pensado para destacar videos y próximos shows.  
 3. Estructura adaptable para móviles y escritorio.  
