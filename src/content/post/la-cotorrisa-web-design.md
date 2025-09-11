@@ -21,3 +21,5 @@ No se trata de un trabajo oficial, sino de un proyecto hecho por admiración y g
 4. Secciones pensadas para tour, episodios y redes sociales.  
 
 📌 Todos los derechos de imágenes y logotipos pertenecen a sus autores.
+
+> Publicación disponible en <a href="https://vt.tiktok.com/ZSDR5tVE9/" target="_blank" rel="noopener noreferrer">Tiktok</a> e <a href="https://www.instagram.com/p/DModIJOMLfu/?utm_source=ig_web_copy_link&igsh=MWs5Y21uM2JzbzIybQ==" target="_blank" rel="noopener noreferrer">Instagram</a>

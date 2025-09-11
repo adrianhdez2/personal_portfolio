@@ -20,3 +20,5 @@ No es un proyecto oficial, sino una propuesta fan-made que busca representar su 
 4. Construcción con HTML, CSS y posibilidad de integración en frameworks modernos.  
 
 📌 Todos los derechos de imágenes y logotipos pertenecen a sus autores.  
+
+> Publicación disponible en <a href="https://vt.tiktok.com/ZSDR5vX3c/" target="_blank" rel="noopener noreferrer">Tiktok</a> e <a href="https://www.instagram.com/p/DNPMa-Tsw72/?utm_source=ig_web_copy_link&igsh=MWR4cG9oZm9remEzbw==" target="_blank" rel="noopener noreferrer">Instagram</a>

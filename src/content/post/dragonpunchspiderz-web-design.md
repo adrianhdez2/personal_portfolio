@@ -22,3 +22,5 @@ Diseño web desarrollado para **Jorge Enrique Jiménez Moreno**, diseñador audi
 
 
 📌 Todos los derechos de imágenes y logotipos pertenecen a sus autores.
+
+> Publicación disponible en <a href="https://vt.tiktok.com/ZSDR5gXCp/" target="_blank" rel="noopener noreferrer">Tiktok</a> e <a href="https://www.instagram.com/p/DNt_Wtx2Czw/?utm_source=ig_web_copy_link&igsh=MXJ6eHQwaGx2eGh3dg==" target="_blank" rel="noopener noreferrer">Instagram</a>
