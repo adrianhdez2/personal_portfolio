@@ -18,7 +18,7 @@ Diseño web desarrollado para **Jorge Enrique Jiménez Moreno**, diseñador audi
 3. Enfoque en usabilidad y experiencia de usuario.  
 4. Responsive design para múltiples dispositivos.  
 
-🔗 Pueden visitarlo aquí: [dragonpunchspiderz.website](https://www.dragonpunchspiderz.website/)  
+🔗 Pueden visitarlo aquí: [https://dragonpunchspiderz.vercel.app/](https://dragonpunchspiderz.vercel.app/)  
 
 
 📌 Todos los derechos de imágenes y logotipos pertenecen a sus autores.
