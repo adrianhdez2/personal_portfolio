@@ -2,7 +2,7 @@
 layout: ../../layouts/post.astro
 title: Desarrollo y diseño web para AIRMEXTAB  
 description: Diseño y desarrollo de sitio web para AirmexTab utilizando Astro, React y Tailwind CSS.
-dateFormatted: Septiembre 15, 2025
+dateFormatted: Abril 16, 2026
 slug_url: airmextab-web-design
 ---
 
